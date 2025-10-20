@@ -10,5 +10,5 @@ To write a Python program that prints the characters `'T'` and `'a'` using chara
 ## 🧾 Program
 
 ## Output
-
+![alt text](<Screenshot 2025-10-20 131441.png>)
 ## Result
